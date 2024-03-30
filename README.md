@@ -3,7 +3,7 @@ This is ComfyUI tools for interactive LLM.
 
 
 # Basic Feature
-1. Node/pipeline interaction among LLM tools.
+1. Node/pipeline interaction among NLP tools.
 2. Support all llm including api as well as local model.
 3. Customized agent for multi-agent system development.
 4. Customized tools for functional calling.
@@ -14,14 +14,14 @@ This is ComfyUI tools for interactive LLM.
 
 # Design
 Basic components:
-## Pipeline
+## 1. Pipeline
 define topology
-## Agent
+## 2. Agent
 llm or function node
-## operator
+## 3. Operator
 concatenate text, extract code, filtering, etc
 
 # Agent Example
-## llm bot
-## raw text
-## pdf reader
+## 1. LLM bot
+## 2. Raw text
+## 3. PDF reader
