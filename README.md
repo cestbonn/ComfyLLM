@@ -1,5 +1,5 @@
 # ComfyLLM
-This is ComfyUI tools for interactive LLM.
+ComfyUI for interactive LLM. This project is under development, contribute if you are interested in! 
 
 
 # Basic Feature
